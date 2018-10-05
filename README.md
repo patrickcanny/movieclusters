@@ -1,7 +1,9 @@
 movieclusters
 ==============================
 
-clustering with movie data
+Recommend a movie based on similar movies using correlation and K-means clustering.
+
+The idea behind this project is to group similarly rated movies together. I used both a correlation approach as well as a K-Means approach to do this. I also implemented a pivot table, which was a new way of looking at data for me. I will likely implement this in the future as well! 
 
 Project Organization
 ------------
